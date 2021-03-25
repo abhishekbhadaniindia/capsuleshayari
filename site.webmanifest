@@ -1,7 +1,7 @@
 {
     "name": "Capsule Shayari is best app in India",
     "short_name": "Capsule Shayari",
-    "start_url": https://www.capsuleshayari.com",
+    "start_url": "https://www.capsuleshayari.com",
     "icons": [
     {
       "src": "windows10/Square71x71Logo.scale-400.png",
